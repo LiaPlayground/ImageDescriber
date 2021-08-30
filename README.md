@@ -4,7 +4,7 @@ author: André Dietrich
 
 email: LiaScript@web.de
 
-version: 0.0.1
+version: 0.0.2
 
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/1280px-The_Great_Wave_off_Kanagawa.jpg
 
@@ -144,6 +144,9 @@ This is only a demo, which shows, how 3 different scripts can be combined. It
 furthermore makes use of the
 [TextAnalysis-Template](https://github.com/LiaTemplates/TextAnalysis), which can
 be used to perform standard style analysis on some input text.
+
+<!--style="display:none"-->
+You can try it out on LiaScript: https://LiaScript.github.io/course/?https://github.com/LiaPlayground/ImageDescriber/blob/main/README.md
 
 ---
 
